@@ -1,5 +1,5 @@
-# Current Focus (As of September 14th) #
-- My current working routine is going through the 'The Odin Project' curriculum as I continue to build up my programming skillset and venture further into the JavaScript realm of development, and this includes frontend and back end via node.js. 
+# Current Focus (As of October 2021) #
+- My current working routine is going through the 'The Odin Project' curriculum as I continue to build up my programming skillset and venture further into the JavaScript realm of development, and this includes frontend and back end via node.js, as well as other topics such as learning and using tools such as npm, webpack, and other workflow enhancements as an effort to streamline my learning to better fit current industry standard practices. 
 # Who Am I? #
 - Hello there! My name is Dallas Pataska, and I am an up and coming full-stack developer focusing in on HTML5, CSS3, JavaScript, and Python via the Django web framework specifically. 
 # What Am I About? #
